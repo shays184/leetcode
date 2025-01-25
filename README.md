@@ -7,4 +7,4 @@ Collection of solutions to LeetCode problems, organized by topic and difficulty
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|1|title test| Python3| easy| 
+| 3110| score of a string| Python3| easy|
